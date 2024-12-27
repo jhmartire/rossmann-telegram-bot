@@ -1,7 +1,7 @@
 Boruta==0.4.3
 Flask==3.0.3
 Werkzeug==3.1.2
-itsdangerous==2.0.0
+itsdangerous>=2.1.2
 Jinja2==3.1.2
 joblib==1.4.2
 matplotlib==3.9.2
@@ -14,3 +14,4 @@ seaborn==0.13.2
 xgboost==2.1.1
 inflection==0.5.1
 gunicorn==21.2.0
+
