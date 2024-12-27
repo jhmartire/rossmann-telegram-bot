@@ -1,1 +1,2 @@
-web: python rossmann-bot.py
+web: gunicorn rossmann-bot:app
+
