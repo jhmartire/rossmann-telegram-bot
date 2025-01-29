@@ -92,11 +92,11 @@ Post-cleaning, statistical analysis and hypothesis testing revealed key insights
 
 ### H10: Stores sell more after the 10th of each month.
 **False**: Sales gradually decline post-10th.  
-![H10](src/image/h10.png)
+![H10](images/h10.png)
 
 ### H11: Stores sell less on weekends.
 **True**: Significant drop on Sundays.  
-![H11](src/image/h11.png)
+![H11](images/h11.png)
 
 ---
 
@@ -135,11 +135,12 @@ Tested Algorithms:
 
 ## 7.1 Model Performance
 - Captured cyclical trends with minimal error divergence.  
-![Model Performance](src/image/Performance%20modelo.png)
+![Model Performance](images/Performance_modelo.png)
 
 ## 7.2 Store-Level Accuracy
 - Most stores clustered near 0% MAPE.  
-![Store Performance](src/image/performance_loja.png)
+![Store Performance](images/performance_loja.png)
+
 
 ## 7.3 Financial Impact
 | Scenario | Revenue (R$) |
