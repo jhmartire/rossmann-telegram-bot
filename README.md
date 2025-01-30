@@ -135,7 +135,7 @@ Tested Algorithms:
 
 ## 7.1 Model Performance
 - Captured cyclical trends with minimal error divergence.  
-![Model Performance](images/Performance_modelo.png)
+![Model Performance](images/Performance-modelo.png)
 
 ## 7.2 Store-Level Accuracy
 - Most stores clustered near 0% MAPE.  
