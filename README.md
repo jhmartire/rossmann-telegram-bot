@@ -139,7 +139,7 @@ Tested Algorithms:
 
 ## 7.2 Store-Level Accuracy
 - Most stores clustered near 0% MAPE.  
-![Store Performance](images/performance_loja.png)
+![Store Performance](images/performance.png)
 
 
 ## 7.3 Financial Impact
